@@ -174,3 +174,11 @@ Well,recognizing my own lack of knowledge is a huge progess!
 
 #### Thoughts:
 - Library is a fantasic place where you can focus on coding deeply for long.
+
+### Day25 September 1st
+#### Progress: 
+-Finished reading <MERN> ,omit the last two chaptes about server readering.
+-Finished reading <犀牛书 js the definitive guide> chapter13-14
+#### Thoughts:
+- Keep going.haven't started to look back CS. 计算机基础知识还没开始复习..有点烦这个
+- New month,new semester,new start,consistent learning!
