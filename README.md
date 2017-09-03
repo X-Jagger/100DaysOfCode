@@ -179,6 +179,14 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Progress: 
 -Finished reading <MERN> ,omit the last two chaptes about server readering.
 -Finished reading <犀牛书 js the definitive guide> chapter13-14
+  
 #### Thoughts:
 - Keep going.haven't started to look back CS. 计算机基础知识还没开始复习..有点烦这个
 - New month,new semester,new start,consistent learning!
+  
+### Day26 September 3st
+#### Progress: 
+-Started a new challenge -- A canvas-shooting-game,finished moving and bullet.
+
+#### Thoughts:
+- canvas子弹重读渲染会出现闪烁，试试双缓存,不用双缓存如何解决？
