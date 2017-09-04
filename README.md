@@ -190,3 +190,11 @@ Well,recognizing my own lack of knowledge is a huge progess!
 
 #### Thoughts:
 - canvas子弹重读渲染会出现闪烁，试试双缓存,不用双缓存如何解决？
+
+### Day27 September 4st
+#### Progress: 
+-Figure out how to deal with the "flash" problem.  运用状态管理（双缓冲）
+- Finished reading <犀牛书 js the definitive guide> chapter14.8-15.8
+
+#### Thoughts:
+- When you come across some problems or questions , you have to try to think deeply to figure out what's in the way. 
