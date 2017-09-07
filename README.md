@@ -198,3 +198,22 @@ Well,recognizing my own lack of knowledge is a huge progess!
 
 #### Thoughts:
 - When you come across some problems or questions , you have to try to think deeply to figure out what's in the way. 
+
+### Day28 September 5st
+#### Progress: 
+- Focus on shooting game, finished the basic functionalities.
+#### Thoughts:
+- Writing notes about your problems , how you dealt with them, is good for reviewing and progress.
+
+### Day29 September6st
+#### Progress: 
+- Finished shooting game~!  want to play: [https://x-jagger.github.io/canvas-shooting-game/](https://x-jagger.github.io/canvas-shooting-game/)
+
+#### Thoughts:
+- Drawing the flow of your project is really good for debugging and clarifying your thinking.
+
+### Day30 September 7st
+#### Progress: 
+
+
+#### Thoughts:
