@@ -218,3 +218,11 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - Got the internal recommendation of Tecent.
 #### Thoughts: 
 - Keep going
+
+### Day31 September 8st
+#### Progress: 
+- Learned about HTTP,status codes TCP
+- Started the TW-Homework,try TDD
+#### Thoughts: 
+- TDD is a useful tool to reduce your bugs
+- Keep going
