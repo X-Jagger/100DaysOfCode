@@ -205,7 +205,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Thoughts:
 - Writing notes about your problems , how you dealt with them, is good for reviewing and progress.
 
-### Day29 September6st
+### Day29 September 6st
 #### Progress: 
 - Finished shooting game~!  want to play: [https://x-jagger.github.io/canvas-shooting-game/](https://x-jagger.github.io/canvas-shooting-game/)
 
@@ -214,6 +214,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 
 ### Day30 September 7st
 #### Progress: 
-
-
-#### Thoughts:
+- Learned about Ajax! XMLHttpRequest,Promise,async/await
+- Got the internal recommendation of Tecent.
+#### Thoughts: 
+- Keep going
