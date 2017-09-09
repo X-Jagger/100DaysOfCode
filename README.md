@@ -226,3 +226,11 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Thoughts: 
 - TDD is a useful tool to reduce your bugs
 - Keep going
+
+### Day32 September 9st
+#### Progress: 
+- Learned about XSS,CSRF and how to offend these attacks.
+- Finished most of the TH-Homework, some details need to completed.
+- joined Netease's exam, big progress than before.
+#### Thoughts: 
+- Keep Going.
