@@ -234,3 +234,27 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - joined Netease's exam, big progress than before.
 #### Thoughts: 
 - Keep Going.
+
+
+### Day33 September 10st
+#### Progress: 
+- learned cross-domain
+- finished last functionality part of TW-Homework
+#### Thoughts: 
+- Keep Going.
+
+
+### Day34 September 11st
+#### Progress: 
+- submit the final homework of TW after the whole night's effort.
+- To many exams... 
+#### Thoughts: 
+- Go to sleep...
+
+### Day34 September 12st
+#### Progress: 
+- submit the final homework of TW after the whole night's effort.
+- To many exams... 
+#### Thoughts: 
+- Go to sleep...
+
