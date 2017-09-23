@@ -175,7 +175,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Thoughts:
 - Library is a fantasic place where you can focus on coding deeply for long.
 
-### Day25 September 1st
+### Day25 September 1
 #### Progress: 
 -Finished reading <MERN> ,omit the last two chaptes about server readering.
 -Finished reading <犀牛书 js the definitive guide> chapter13-14
@@ -184,14 +184,14 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - Keep going.haven't started to look back CS. 计算机基础知识还没开始复习..有点烦这个
 - New month,new semester,new start,consistent learning!
   
-### Day26 September 3st
+### Day26 September 3
 #### Progress: 
 -Started a new challenge -- A canvas-shooting-game,finished moving and bullet.
 
 #### Thoughts:
 - canvas子弹重读渲染会出现闪烁，试试双缓存,不用双缓存如何解决？
 
-### Day27 September 4st
+### Day27 September 4
 #### Progress: 
 -Figure out how to deal with the "flash" problem.  运用状态管理（双缓冲）
 - Finished reading <犀牛书 js the definitive guide> chapter14.8-15.8
@@ -199,27 +199,27 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Thoughts:
 - When you come across some problems or questions , you have to try to think deeply to figure out what's in the way. 
 
-### Day28 September 5st
+### Day28 September 5
 #### Progress: 
 - Focus on shooting game, finished the basic functionalities.
 #### Thoughts:
 - Writing notes about your problems , how you dealt with them, is good for reviewing and progress.
 
-### Day29 September 6st
+### Day29 September 6
 #### Progress: 
 - Finished shooting game~!  want to play: [https://x-jagger.github.io/canvas-shooting-game/](https://x-jagger.github.io/canvas-shooting-game/)
 
 #### Thoughts:
 - Drawing the flow of your project is really good for debugging and clarifying your thinking.
 
-### Day30 September 7st
+### Day30 September 7
 #### Progress: 
 - Learned about Ajax! XMLHttpRequest,Promise,async/await
 - Got the internal recommendation of Tecent.
 #### Thoughts: 
 - Keep going
 
-### Day31 September 8st
+### Day31 September 8
 #### Progress: 
 - Learned about HTTP,status codes TCP
 - Started the TW-Homework,try TDD
@@ -227,7 +227,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - TDD is a useful tool to reduce your bugs
 - Keep going
 
-### Day32 September 9st
+### Day32 September 9
 #### Progress: 
 - Learned about XSS,CSRF and how to offend these attacks.
 - Finished most of the TH-Homework, some details need to completed.
@@ -236,7 +236,7 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - Keep Going.
 
 
-### Day33 September 10st
+### Day33 September 10
 #### Progress: 
 - learned cross-domain
 - finished last functionality part of TW-Homework
@@ -244,17 +244,22 @@ Well,recognizing my own lack of knowledge is a huge progess!
 - Keep Going.
 
 
-### Day34 September 11st
+### Day34 September 11
 #### Progress: 
 - submit the final homework of TW after the whole night's effort.
 - To many exams... 
 #### Thoughts: 
 - Go to sleep...
 
-### Day34 September 12st
+### Day34 September 12
 #### Progress: 
 - submit the final homework of TW after the whole night's effort.
 - To many exams... 
 #### Thoughts: 
 - Go to sleep...
 
+### Day44 September 23
+#### Progress: 
+- Learned CSS-BFC and Flex
+#### Thoughts: 
+- Prepare..
