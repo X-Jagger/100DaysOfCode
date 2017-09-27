@@ -258,8 +258,19 @@ Well,recognizing my own lack of knowledge is a huge progess!
 #### Thoughts: 
 - Go to sleep...
 
+......learning every day ,forgot to edit
+
 ### Day44 September 23
 #### Progress: 
 - Learned CSS-BFC and Flex
 #### Thoughts: 
 - Prepare..
+
+......Almost it's the end of looking for jobs. Lucky.
+Next thing to do : A website from front-end to back-end.
+
+### Day44 September 27
+#### Progress: 
+- 
+#### Thoughts: 
+- 
